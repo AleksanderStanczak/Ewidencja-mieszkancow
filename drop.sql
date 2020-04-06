@@ -1,0 +1,11 @@
+drop table if exists wnioski_zameldowanie
+drop table if exists wnioski_zmiana_danych
+drop table if exists wnioski
+drop table if exists urzêdnicy
+drop table if exists cenniki
+drop table if exists dane
+drop table if exists zameldowania
+drop table if exists adresy
+drop table if exists dzielnice
+drop table if exists mieszkañcy
+drop table if exists osoby
