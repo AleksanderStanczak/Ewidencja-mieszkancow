@@ -2,6 +2,7 @@
 Celem bazy jest ażeby miasto posiadało spis zameldowanych mieszkańców, zarówno tych obecnych jak i tych którzy już nie są zameldowani. A więc po nowym zameldowaniu stare nie jest usuwane z bazy. Każdy mieszkaniec ma mieć przypisany adres i dzielnice w której mieszka, co powinno pomóc w prowadzeniu wszelakich statystyk. Ponadto każdy mieszkaniec ma dane osobowe, przy czym dopuszczana jest zmiana imienia, nazwiska i płci poprzez złożenie odpowiedniego wniosku (który również jest zapisywany do bazy). Co wiecej w bazie figurują dane wniosków o zameldowanie i wniosków o akt zgonu, a każdy wniosek ma przypisanego urzędnika i cennik za wykonaną usługę. 
 
 ## Diagram ERD
+![koncowy](https://user-images.githubusercontent.com/63204080/78798106-e324bb00-79b8-11ea-8974-e00a5affde2e.png)
 
 ## Zapytania do bazy
 1. Pokaż tych urzędników, którzy w roku 2017 obsłużyli ponad 5 wniosków.
